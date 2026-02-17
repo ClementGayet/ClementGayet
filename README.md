@@ -35,30 +35,6 @@ Independent project built as a solo-preneur: product delivery end-to-end (build,
 
 ---
 
-## Tech stack (daily drivers)
-
-**Backend**
-- Java (Spring Boot)
-- TypeScript / Node.js (REST APIs, workers)
-
-**Data**
-- PostgreSQL (schema design, performance, migrations)
-- S3 Like for object storage
-
-**Cloud / Infra**
-- AWS
-- Scaleway
-- Docker, Github Action & Gitlab CI, Grafana
-
-**Frontend**
-- Modern web apps (React ecosystem), component-driven UI
-- Flutter for dynamic mobile-apps
-- Currently checking for https://lynxjs.org/
-
-**I also enjoy using supabase for www.klapee.com**
-
----
-
 ## Agentic workflow (how I build)
 I work “with agents as a team” using **OpenCode**:
 - Repo: https://github.com/anomalyco/opencode
@@ -72,12 +48,3 @@ I work “with agents as a team” using **OpenCode**:
 - 💼 [LinkedIn](https://www.linkedin.com/in/clement-gayet/)
 - 📫 [Email](mailto:contact@clementgayet.dev)
 - 🌍 Location: France / EU
-
----
-
-## GitHub quick stats
-
-<p align="left">
-  <img height="150" src="https://github-readme-stats.vercel.app/api?username=ClementGayet&show_icons=true" />
-  <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ClementGayet&layout=compact" />
-</p>
