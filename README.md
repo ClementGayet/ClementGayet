@@ -39,7 +39,6 @@ Independent project built as a solo-preneur: product delivery end-to-end (build,
 I work “with agents as a team” using **OpenCode**:
 - Repo: https://github.com/anomalyco/opencode
 - Website/docs: https://opencode.ai
-- My OpenCode configuration: **coming soon** (will be published publicly as a opencode plugin)
 
 ---
 
